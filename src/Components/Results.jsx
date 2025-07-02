@@ -13,7 +13,7 @@ function Results({questionBank, userAnswers, restartQuiz}) {
     const score = getScore();
     
     return (
-        <div>
+        <div  className="results-card">
             <h2>
                 Quiz Completed
             </h2>
