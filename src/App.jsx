@@ -1,4 +1,4 @@
-import Quiz from "./assets/Components/quiz"
+import Quiz from "./Components/quiz"
 
 
 function App() {
